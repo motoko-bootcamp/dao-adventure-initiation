@@ -26,4 +26,4 @@ Head over to [TODO] and follow instructions.
 
 
 ## Learn more
-If you want to learn more, read the tutorial section.
+If you want to learn more , read the [tutorial](/tutorials/README.MD) section.
