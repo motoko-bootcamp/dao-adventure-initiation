@@ -1,0 +1,12 @@
+{
+    "canisters": {
+        "demo" : {
+            "main": "src/demo.mo",
+            "type": "motoko"
+        },
+        "first_dapp" : {
+            "main" : "src/main.mo",
+            "type" : "motoko"
+        }
+    }
+}
