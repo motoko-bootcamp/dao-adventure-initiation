@@ -11,6 +11,7 @@ At the center of the academy was the **Digital Legacy Scroll**. Everytime a stud
 The rewards didn't end with the scroll. Those who got onto the list  were also given the keys to **OpenChat**, a unique digital room for the best of the best. It was a sanctuary for the curious and ambitious.Legends say that within **OpenChat** secrets to forging a DAO were reveleaded.
 
 At Motoko Academy, the goal wasn't just coding; it was about changing the digital world. And so, in the heart of the **Internet Computer**, the story of Motoko Academy grew, training the next wave of app and DAO makers.
+<p align="center"> <img src="https://github.com/Code-and-State/deploy-first-dapp/blob/main/assets/home/chat_icp.png"  style="border: 1px solid black;"/> </p>
 
 ## 🎯 Your Turn
 Do you think the **Internet Computer** sounds too good to be true? Let me prove you wrong. In a few minutes, you'll chat with me directly from it. <br/>
