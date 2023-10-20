@@ -1,6 +1,6 @@
 
 # Motoko Bootcamp - Level 0 - Deploy your 1st dApp
-![OpenChat](https://github.com/Code-and-State/deploy-first-dapp/blob/main/assets/home/chat_icp.png)
+![OpenChat](https://raw.githubusercontent.com/Code-and-State/deploy-first-dapp/main/assets/home/chat_icp.png)
 
 Welcome to **Motoko Bootcamp** 👋 This is a guided tutorial to help you deploy your 1st application on the **Internet Computer** in under 5 minutes 🤯 You don't need any prior setup to use this repository.
 
