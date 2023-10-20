@@ -1,5 +1,6 @@
 # Motoko Bootcamp - Level 0 - Deploy your 1st dApp
-> Welcome to **Motoko Bootcamp** 👋 <br/> This is a guided tutorial to help you deploy your 1st application on the **Internet Computer** in under 5 minutes 🤯 <br/> You don't need any prior setup to use this repository.
+
+Welcome to **Motoko Bootcamp** 👋 This is a guided tutorial to help you deploy your 1st application on the **Internet Computer** in under 5 minutes 🤯 You don't need any prior setup to use this repository.
 
 ## 📜 The legend of Motoko Academy 
 In a parallel digital universe, the vast digital realm was divided into various land. One such luxurious land was the **Internet Computer**. The **Internet Computer** was for all a land of hope, progress and dream. <br/>Rising above the clouds of this domain, was the prestigious **Motoko Academy**. Here, novices transformed into digital architects and shaped the future of this land.  
