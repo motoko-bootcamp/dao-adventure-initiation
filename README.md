@@ -23,11 +23,10 @@ Do you think the **Internet Computer** sounds too good to be true? Let me prove 
 We will use an application called **OpenChat**. <br/>
 **OpenChat** is a fully featured chat application running end-to-end on the Internet Computer. OpenChat is also the first application to be completely controlled by a DAO, the **OpenChat DAO**.
 
-To gain access to the group, you must first complete and deploy your application in [main.mo](src/main.mo). Only after doing so will the secret code be revealed.
+To gain access to the group, you must first complete and deploy your 1st application by completing all the tasks in [main.mo](src/main.mo). Only after doing so will the secret code be revealed.
 
 ## How to get started?
-
-Head over to [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.ic0.app/?tag=2903574997) and follow the instructions.
+Head over to [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.ic0.app/?tag=2903574997) and follow the instructions. Use [demo.mo](src/demo.mo) as a reference.
 
 ## Learn more
 If you want to learn more , read the [tutorial](/tutorials/README.MD) section.
