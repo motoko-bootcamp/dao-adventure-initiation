@@ -2,7 +2,9 @@
 # Motoko Bootcamp - Level 0 - Deploy your 1st dApp
 ![OpenChat](https://raw.githubusercontent.com/Code-and-State/deploy-first-dapp/main/assets/home/chat_icp.png)
 
-Welcome to **Motoko Bootcamp** 👋 This is a guided tutorial to help you deploy your 1st application on the **Internet Computer** in under 5 minutes 🤯 You don't need any prior setup to use this repository.
+Welcome to **Motoko Bootcamp** 👋 
+This is a guided tutorial to help you deploy your 1st application on the **Internet Computer** in under 5 minutes 🤯 
+You don't need any prior setup to use this repository.
 
 ## 📜 The legend of Motoko Academy 
 _In a parallel digital universe, the vast digital realm was divided into various land. One such luxurious land was the **Internet Computer**. The **Internet Computer** was for all a land of hope, progress and dream. <br/>Rising above the clouds of this domain, was the prestigious **Motoko Academy**. Here, novices transformed into digital architects and shaped the future of this land._  
