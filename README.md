@@ -27,8 +27,7 @@ To gain access to the group, you must first complete and deploy your application
 
 ## How to get started?
 
-Head over to [TODO] and follow instructions.
-
+Head over to [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.ic0.app/?tag=2903574997) and follow the instructions.
 
 ## Learn more
 If you want to learn more , read the [tutorial](/tutorials/README.MD) section.
