@@ -33,7 +33,7 @@ We will use an application called **OpenChat**. <br/>
 To gain access to the group, you must first complete and deploy your 1st application by completing all the tasks in [main.mo](src/main.mo). Only after doing so will the secret code be revealed.
 
 ## How to get started?
-Head over to [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.ic0.app/?tag=2484611184) and follow the instructions. <br/> Use [demo.mo](src/demo.mo) as a reference.
+Head over to [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.ic0.app/?tag=2484611184) and follow the instructions. You can use the code in [demo.mo](src/demo.mo) as a reference.
 
 ## Want to understand a bit more?
 Curious about how all of this work, read the [tutorial](/tutorials/README.MD) section.
