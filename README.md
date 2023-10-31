@@ -6,6 +6,13 @@ Welcome to **Motoko Bootcamp** 👋  <br/>
 This is a guided tutorial to help you deploy your 1st application on the **Internet Computer** in under 5 minutes 🤯 <br/>
 You don't need any prior setup to use this repository.
 
+## 🎓 Overview
+1. Write your first lines of Motoko by completing the tasks in [main.mo](src/main.mo).
+2. Deploy your first application on the Internet Computer using the Motoko Playground.
+3. Get automatically verified and unlock access to our **OpenChat** room upon verification.
+4. Leave your mark on the **Digital Legacy Scroll**.
+5. Earn 1 ICP if you are fast enough!
+
 ## 📜 The legend of Motoko Academy 
 _In a parallel digital universe, the vast digital realm was divided into various land. One such luxurious land was the **Internet Computer**. The **Internet Computer** was for all a land of hope, progress and dream. <br/>Rising above the clouds of this domain, was the prestigious **Motoko Academy**. Here, novices transformed into digital architects and shaped the future of this land._  
 
