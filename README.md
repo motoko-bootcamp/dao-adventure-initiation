@@ -8,10 +8,10 @@ You don't need any prior setup to use this repository.
 
 ## 🎓 Overview
 1. Write your first lines of Motoko by completing the tasks in [main.mo](src/main.mo).
-2. Deploy your first application on the Internet Computer using the Motoko Playground.
+2. Deploy your first application on the Internet Computer using the [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.ic0.app/?tag=2484611184).
 3. Get automatically verified and unlock access to our **OpenChat** room upon verification.
-4. Leave your mark on the **Digital Legacy Scroll**.
-5. Earn 1 ICP if you are fast enough!
+4. Leave your mark on the [Wall Of Fame](https://aki3l-syaaa-aaaaj-qa23q-cai.icp0.io/).
+5. Earn 1 ICP if you are fast enough.
 
 ## 📜 The legend of Motoko Academy 
 _In a parallel digital universe, the vast digital realm was divided into various land. One such luxurious land was the **Internet Computer**. The **Internet Computer** was for all a land of hope, progress and dream. <br/>Rising above the clouds of this domain, was the prestigious **Motoko Academy**. Here, novices transformed into digital architects and shaped the future of this land._  
@@ -33,7 +33,7 @@ We will use an application called **OpenChat**. <br/>
 To gain access to the group, you must first complete and deploy your 1st application by completing all the tasks in [main.mo](src/main.mo). Only after doing so will the secret code be revealed.
 
 ## How to get started?
-Head over to [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.ic0.app/?tag=2903574997) and follow the instructions. Use [demo.mo](src/demo.mo) as a reference.
+Head over to [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.ic0.app/?tag=2484611184) and follow the instructions. <br/> Use [demo.mo](src/demo.mo) as a reference.
 
-## Learn more
-If you want to learn more , read the [tutorial](/tutorials/README.MD) section.
+## Want to understand a bit more?
+Curious about how all of this work, read the [tutorial](/tutorials/README.MD) section.
