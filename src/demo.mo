@@ -1,5 +1,4 @@
-actor Demo {
-
+actor  {
     // Immutable variable definition in Motoko using 'let'
     let website: Text = "https://motokobootcamp.com";
 
@@ -17,10 +16,4 @@ actor Demo {
     public func changeMessage(newMessage: Text): async () {
         message := newMessage;
     };
-
-    // Uncommenting the following would result in an error
-    // Immutable variables (like 'website') cannot be reassigned
-    // public func changeWebsite(newWebsite: Text): async () {
-    //     website := newWebsite;
-    // }
 }

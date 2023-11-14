@@ -1,4 +1,4 @@
-actor Scroll {
+actor {
 
     // Task #1:
     // Create an immutable variable 'name' of type 'Text'.
@@ -21,25 +21,16 @@ actor Scroll {
     // This function should return the value of the 'message' variable.
 
     // Task #6:
-    // Deploy your application to the Internet Computer.
-
-    // Task #7:
-    // Invoke the 'setMessage' function.
-
-    // Task #8:
-    // Invoke both 'getName' and 'getMessage' functions.
-    // Verify that they return the correct values.
-    // Note: Once you execute Task 9, the values will be permanently stored.
-
-    // Task #9:
-    // Invoke the 'test' function and await its result.
+    // Deploy your application to the Internet Computer, call the 'setMessage' function with the value you'd like to save.
+    // Then call the `test` function.
 
     // Below section is for inter-canister calls to test your application. Do not modify.
-    // let testActor : actor {
-    //     testApp : shared (name : Text, message : Text) -> async Text;
-    // } = actor ("anj57-7aaaa-aaaaj-qa23a-cai");
+    let testActor : actor {
+        testApp : shared (name : Text, message : Text) -> async Text;
+    } = actor ("anj57-7aaaa-aaaaj-qa23a-cai");
 
-    // public func test() : async Text {
-    //     let result = await  testActor.testApp(name, message);
-    // };
+    public func test() : async Text {
+        let result = await testActor.testApp(name, message);
+        return result;
+    };
 };

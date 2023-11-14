@@ -28,7 +28,5 @@ Head over to [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.ic0.app/?ta
 2. Deploy your first application on the Internet Computer using the [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.ic0.app/?tag=2484611184).
 3. Get automatically verified and unlock access to our **OpenChat** room upon verification.
 4. Leave your mark on the [Wall Of Fame](https://aki3l-syaaa-aaaaj-qa23q-cai.icp0.io/).
-(5. Earn 1 ICP if you are fast enough.)
+5. Earn 1 ICP if you are fast enough.
 
-## Want to understand a bit more?
-Curious about how all of this work? Read the [tutorial](/tutorials/README.MD) section.
