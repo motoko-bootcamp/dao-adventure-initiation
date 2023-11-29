@@ -1,11 +1,4 @@
-# Motoko Bootcamp - Level 0 - Deploy your 1st dApp
-
-![OpenChat](https://raw.githubusercontent.com/Code-and-State/deploy-first-dapp/main/assets/home/chat_icp.png)
-
-Welcome to **Motoko Bootcamp** 👋 <br/>
-This is a guided tutorial to help you deploy your 1st application on the **Internet Computer** in under 5 minutes 🤯 <br/>
-You don't need any prior setup to use this repository.
-
+ Motoko Bootcamp - Challenge - Deploy your first dApp
 ## 📜 The legend of Motoko Academy
 
 _In an alternate universe, the digital world is divided into various lands, with the Motoko Academy towering above the clouds. This prestigious academy is not just about learning to code; it's a place where novices are transformed into digital architects who shape the future of the digital world._
@@ -17,17 +10,22 @@ _At the heart of Motoko Academy lies the **Digital Legacy Scroll**, a dynamic re
 _But the rewards extend beyond the scroll. Those who make it onto the list are granted access to **OpenChat**, an exclusive digital space reserved for the elite. This sanctuary for the curious and ambitious is rumored to hold the secrets to creating a DAO, making it a coveted destination for aspiring digital architects._
 
 ## 🎯 Your Turn
+Welcome to the Gateway of the Motoko Academy!
 
-The ancients secrets of **DAOs** are about to be reveleaded to you. <br/>
-But first, you need to prove your worth.  
-To gain access to **OpenChat**, you must first complete and deploy your 1st application by completing all the tasks in [main.mo](src/main.mo) - only after doing so will the secrets be revealed.
+As you approach the grand entrance, a luminous hologram greets you with an inviting voice, "Ready to shape the digital future?" It stands as the guardian of knowledge at the academy, guiding aspirants on their journey.
+
+Your mission is clear: to conquer the 1st dApp Challenge. This initiation ritual is your first step towards mastering digital architecture and unlocking the world of DAOs.
+
+The hologram AI outlines your task:
+1. **Develop Your Application**: Dive into the Motoko Playground and write your first lines of code. Use the instructions in [main.mo](src/main.mo) as your guide, with demo.mo as a reference.
+2. **Deploy and Verify**: Launch your application on the Internet Computer. Upon successful deployment, you'll be automatically verified.
+3. **Earn Your Place**: Successful completion will add your name to the [Digital Legacy Scroll](https://aki3l-syaaa-aaaaj-qa23q-cai.icp0.io/), celebrating your achievement and aspiration.
+4. **Unlock OpenChat**: Gain exclusive access to this elite digital space, joining a community of innovators and thinkers.
 
 ## How to get started?
+Click Here To Access The Motoko Playground 👉 [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/?tag=1310704179)
 
-Click Here To Access The Playground 👉 [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/?tag=1310704179)
-
-1. Write your first lines of Motoko by completing the tasks in [main.mo](src/main.mo). You can use the code in [demo.mo](src/demo.mo) as a reference.
+1. Write your first lines of Motoko by completing the tasks in . You can use the code in [demo.mo](src/demo.mo) as a reference.
 2. Deploy your first application on the Internet Computer using the Motoko Playground.
 3. Get automatically verified and unlock access to our **OpenChat** room upon verification.
-4. Leave your mark on the [Wall Of Fame](https://aki3l-syaaa-aaaaj-qa23q-cai.icp0.io/).
-5. Earn 1 ICP if you are fast enough.
+4. Leave your mark on the [Digital Legacy Scroll](https://aki3l-syaaa-aaaaj-qa23q-cai.icp0.io/)
