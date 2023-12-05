@@ -28,5 +28,6 @@ The hologram AI outlines your task:
 4. **Unlock OpenChat**: Gain exclusive access to this elite digital space, joining a community of innovators and thinkers.
 
 ## 🙋‍♂️ How to get started?
-- Click Here To Access The Motoko Playground 👉 [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/?tag=1310704179)
+- Register on the [Motoko Bootcamp Dashboard](https://www.motokobootcamp.com/) 
+- Click Here To Access The Motoko Playground 👉 [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/?tag=3270740775)
 - Watch the associated video tutorial 👉 [Deploy your first application](https://www.youtube.com/watch?v=BoraxB8WFHk)
