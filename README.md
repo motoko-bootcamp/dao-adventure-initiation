@@ -1,33 +1,49 @@
-# Motoko Bootcamp - Level 0 - Will You Make It?
+# Day 0️⃣
 
-## 📜 The legend of Motoko Academy
-<p> <img src="./assets/academy.webp" alt="Build" /> </p>
+> This repository is an introductory module to the DAO Adventure. If you want to consult the official repository of the DAO adventure, [click here](https://github.com/motoko-bootcamp/dao-adventure).
 
-_In an alternate universe, the digital world is divided into various lands, with the Motoko Academy towering above the clouds. This prestigious academy is not just about learning to code; it's a place where novices are transformed into digital architects who shape the future of the digital world._
+## Introduction
 
-_The academy has a crucial initiation ritual, **The 1st dApp Challenge.** Aspirants must conquer this challenge to gain entry into the academy and unlock the mysteries of DAOs._
+So you've decided to join the Motoko Bootcamp. We are thrilled to have you on board! <br/>
+But before we can start, you'll need to prove your worth and complete the initiation challenge.
 
-_At the heart of Motoko Academy lies the **Digital Legacy Scroll**, a dynamic record of achievement. Whenever a student successfully develops their app, their name and a personal message about their aspirations are added to this scroll. It serves as a living testament to the hard work and success of the academy's students, inspiring and celebrating their achievements._
+## Your tasks ✅
 
-_But the rewards extend beyond the scroll. Those who make it onto the list are granted access to **OpenChat**, an exclusive digital space reserved for the elite. This sanctuary for the curious and ambitious is rumored to hold the secrets to creating a DAO, making it a coveted destination for aspiring digital architects._
+> This is a checklist of the tasks you need to complete today. You can do more if you want, but this is the minimum required to consider Level 0 as completed.
 
-## 🎯 Your Challenge
-<p> <img src="./assets/challenge.webp" alt="Build" /> </p>
-Welcome to the Gateway of the Motoko Academy.
+- Complete the [initiation challenge](./project/PROJECT.MD).
+- Join the [Motoko Bootcamp Discord](https://discord.gg/vwEC5RcKBv) and introduce yourself.
 
-<br/>
-As you approach the grand entrance, a luminous hologram greets you with an inviting voice, "Ready to shape the digital future?" It stands as the guardian of knowledge at the academy, guiding aspirants on their journey.
-<br/>
+## Lectures 🍿
 
-Your mission is clear: to conquer the **1st dApp Challenge**. 
+> Be sure to consult the [Motoko Bootcamp](https://calendar.google.com/calendar/u/0/embed?src=c_1a1c0c95f41c3d5729532726aaa57d96e991c5d3254b0f9e02fdf4d9babf4401@group.calendar.google.com) calendar for the precise schedule of each lecture.
 
-The hologram AI outlines your task:
-1. **Develop Your Application**: Dive into the Motoko Playground and write your first lines of code. Use the instructions in [main.mo](src/main.mo) as your guide, with demo.mo as a reference.
-2. **Deploy and Verify**: Launch your application on the Internet Computer. Upon successful deployment, you'll be automatically verified.
-3. **Earn Your Place**: Successful completion will add your name to the [Digital Legacy Scroll](https://aki3l-syaaa-aaaaj-qa23q-cai.icp0.io/), celebrating your achievement and aspiration.
-4. **Unlock OpenChat**: Gain exclusive access to this elite digital space, joining a community of innovators and thinkers.
+| Title                            | Description                                                            |
+| -------------------------------- | ---------------------------------------------------------------------- |
+| Deploy your first dApp in 1 hour | Do you think it's hard to get started in Web3? Let us prove you wrong. |
 
-## 🙋‍♂️ How to get started?
-- Register on the [Motoko Bootcamp Dashboard](https://www.motokobootcamp.com/) 
-- Click Here To Access The Motoko Playground 👉 [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/?tag=3270740775)
-- Watch the associated video tutorial 👉 [Deploy your first application](https://www.youtube.com/watch?v=BoraxB8WFHk)
+## 📚 Resources
+
+This set of resources will help you complete this level and contains useful information for your journey ahead.
+
+| Name                           | Type  | URL                                                       | Description                                                                            |
+| ------------------------------ | ----- | --------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| What is the Internet Computer? | Video | [Click Here](https://www.youtube.com/watch?v=UjMTYeMy_6Y) | Let's discover the Internet Computer - a new decentralized cloud powered by blockchain |
+| What is Motoko?                | Video | [Click Here](https://www.youtube.com/watch?v=6YIBRI-1RJs) | Discover Motoko: a fun language that let's you build Web3 apps!                        |
+| What is a DAO?                 | Video | [Click Here](https://www.youtube.com/watch?v=LbkNVP_hlfY) | Learn about the future of work and human organizations                                 |
+
+## Motoko pill of the day 💊
+
+> The Motoko Bootcamp is a 7 day transformative journey that turns beginners into digital heroes. It is an initiative organized and supported by [Code & State](https://www.codeandstate.com/).
+
+<p align="center">
+    <img src="./assets/guide/Poster-1.png" style="width: 300px; display: inline;" />
+    <img src="./assets/guide/Poster-2.png" style="width: 300px; display: inline;" />
+    <img src="./assets/guide/Poster-3.png" style="width: 300px; display: inline;" />
+</p>
+
+## Meme of the day 🙈
+
+> This meme is brought to you by a fellow Motoko Bootcamp student. If you have a meme you'd like to share, please send it to us on the [memes](https://discord.gg/vwEC5RcKBv) channel - we'll feature the best ones here.
+
+<p align="center"><img src="./assets/guide/meme_level_0.pngw" style="width: 500px;" /></p>
