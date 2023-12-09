@@ -30,7 +30,7 @@ Click Here To Get Started 👉 [Motoko Playground](https://m7sm4-2iaaa-aaaab-qab
 
 0. Register on the [Motoko Bootcamp Dashboard](motokobootcamp.com) and create an account.
 1. Develop your application by completing the 5 specified tasks in main.mo, available in the [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/?tag=3270740775).
-2. Once developed, deploy your application and submit your canister on [motokobootcamp.com](https://motokobootcamp.com). If your submission is validated it will automatically leave your mark on the [Digital Legacy Scroll](https://aki3l-syaaa-aaaaj-qa23q-cai.ic0.io/) and you'll gain private Motoko Bootcamp OpenChat Group and join a community of innovators and thinkers.
+2. Once developed, deploy your application and submit your canister on [motokobootcamp.com](https://motokobootcamp.com). If your submission is validated it will automatically leave your mark on the [Digital Legacy Scroll](https://aki3l-syaaa-aaaaj-qa23q-cai.icp0.io/) and you'll gain private Motoko Bootcamp OpenChat Group and join a community of innovators and thinkers.
 
 ## 📺 Interface
 
