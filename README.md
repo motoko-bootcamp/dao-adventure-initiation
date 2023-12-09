@@ -35,7 +35,7 @@ This set of resources will help you complete this level and contains useful info
 
 ## Motoko pill of the day 💊
 
-> The Motoko Bootcamp is a 7 day transformative journey that turns beginners into digital heroes. It is an initiative organized and supported by [Code & State](https://www.codeandstate.com/).
+> The Motoko Bootcamp is a 7 day transformative journey that turns beginners into digital heroes. It is an initiative organized and supported by [Code & State](https://www.codeandstate.com/). Make sure to register for the next Bootcamp on [motokobootcamp.com](https://www.motokobootcamp.com/) 
 
 <p align="center">
     <img src="./assets/guide/Poster-1.png" style="width: 300px; display: inline;" />
