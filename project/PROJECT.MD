@@ -1,4 +1,4 @@
-# Level 0 - The Initiation Challenge
+# The Initiation Challenge
 
 <p > <img src="../assets/project/academy.webp" alt="Build" /> </p>
 
@@ -20,17 +20,20 @@ _As you approach the grand entrance, a luminous hologram greets you with an invi
 
 Your goal, should you decided to embark on this journey, is to successfully deploy your first application on the Internet Computer.
 
-For this task, we will utilize the Motoko Playground, a web-based coding platform. This means no software installations are needed on your computer!
+To achieve this, we will make use of the Motoko Playground, a web-based coding platform. This eliminates the need for any software installations on your computer!
 
 ## ✏️ Your Tasks
-
-> Today, your objective is to build and deploy your application using the Motoko Playground. This platform allows you to work directly in your web browser, eliminating the need for any installations on your computer.
 
 Click Here To Get Started 👉 [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/?tag=3270740775)
 
 0. Register on the [Motoko Bootcamp Dashboard](motokobootcamp.com) and create an account.
+
+> Creating an account on the Motoko Bootcamp Dashboard will automatically grant you the candidate role. To become a student, you must complete the initiation challenge.
+
 1. Develop your application by completing the 5 specified tasks in main.mo, available in the [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/?tag=3270740775).
-2. Once developed, deploy your application and submit your canister on [motokobootcamp.com](https://motokobootcamp.com). If your submission is valida, you will automatically leave your mark on the [Digital Legacy Scroll](https://aki3l-syaaa-aaaaj-qa23q-cai.icp0.io/) and you'll also gain access to our private Motoko Bootcamp OpenChat Group. Welcome, you are now officialy one of our student. 👏
+2. Once developed, deploy your application and submit your canister on [motokobootcamp.com](https://motokobootcamp.com). If your submission is valid, you will automatically leave your mark on the [Digital Legacy Scroll](https://aki3l-syaaa-aaaaj-qa23q-cai.icp0.io/) and you'll gan access to our private Motoko Bootcamp OpenChat Group.
+
+Welcome, you are officialy **a student** 👏
 
 ## 📺 Interface
 

@@ -1,23 +1,17 @@
-# Day 0️⃣
-
-> This repository is a starter module for the DAO Adventure. It's been taken from the full repository. To check out the official DAO Adventure repository, [click here](https://github.com/motoko-bootcamp/dao-adventure).
+> This repository is a starter for the DAO Adventure. To check out the complete DAO Adventure repository, [click here](https://github.com/motoko-bootcamp/dao-adventure).
 
 ## Introduction
 
-So you've decided to join the Motoko Bootcamp? That's great. We are thrilled to have you! <br/>
+So you've decided to join the Motoko Bootcamp? That's great. We are thrilled to have you! <br/> Before we can start, you'll need to prove your worth and complete the initiation challenge.
 
-But before we can start, you'll need to prove your worth and complete the initiation challenge.
-
-## Your tasks ✅
-
-> This is a checklist of the tasks you need to complete today. You can do more if you want, but this is the minimum required to consider Level 0 as completed.
+## Task ✅
 
 - Complete the [initiation challenge](./project/PROJECT.MD).
 - Join the [Motoko Bootcamp Discord](https://discord.gg/vwEC5RcKBv) and introduce yourself.
 
 ## Lectures 🍿
 
-> Check out the [Motoko Bootcamp calendar](https://calendar.google.com/calendar/u/0/embed?src=c_1a1c0c95f41c3d5729532726aaa57d96e991c5d3254b0f9e02fdf4d9babf4401@group.calendar.google.com) for the exact times of each lecture. The 'Deploy your first dApp in 1 hour' workshop happens every Tuesday and Saturday. You can sign up on [motokobootcamp.com](https://www.motokobootcamp.com/).
+> Check out the [Motoko Bootcamp calendar](https://calendar.google.com/calendar/u/0/embed?src=c_1a1c0c95f41c3d5729532726aaa57d96e991c5d3254b0f9e02fdf4d9babf4401@group.calendar.google.com) for the exact times. The 'Deploy your first dApp in 1 hour' workshop happens every Tuesday and Saturday. You can sign up on [motokobootcamp.com](https://www.motokobootcamp.com/).
 
 | Title                            | Description                                                            |
 | -------------------------------- | ---------------------------------------------------------------------- |
@@ -33,9 +27,9 @@ This set of resources will help you complete this level and contains useful info
 | What is Motoko?                | Video | [Click Here](https://www.youtube.com/watch?v=6YIBRI-1RJs) | Discover Motoko: a fun language that let's you build Web3 apps!                        |
 | What is a DAO?                 | Video | [Click Here](https://www.youtube.com/watch?v=LbkNVP_hlfY) | Learn about the future of work and human organizations                                 |
 
-## Motoko pill of the day 💊
+## Motoko pill 💊
 
-> The Motoko Bootcamp is a 7 day transformative journey that turns beginners into digital heroes. It is an initiative organized and supported by [Code & State](https://www.codeandstate.com/). Make sure to register for the next Bootcamp on [motokobootcamp.com](https://www.motokobootcamp.com/) 
+> The Motoko Bootcamp is a 7 day transformative journey that turns beginners into digital heroes. It is an initiative organized and supported by [Code & State](https://www.codeandstate.com/). Make sure to register for the next Bootcamp on [motokobootcamp.com](https://www.motokobootcamp.com/)
 
 <p align="center">
     <img src="./assets/guide/Poster-1.png" style="width: 300px; display: inline;" />
