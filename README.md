@@ -24,7 +24,7 @@ _But the rewards extend beyond the scroll. Those who make it onto the list are g
 
 _As you approach the grand entrance, a luminous hologram greets you with an inviting voice, "Ready to shape the digital future?" It stands as the guardian of knowledge at the academy, guiding aspirants on their journey._
 
-<p align="center"> <img src="../assets/project/challenge.webp" alt="Build" /> </p>
+<p align="center"> <img src="./assets/project/challenge.webp" alt="Build" /> </p>
 
 ## 🎯 Mission
 
