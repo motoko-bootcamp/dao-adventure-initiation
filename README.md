@@ -46,7 +46,7 @@ Your goal, should you decided to embark on this journey, is to successfully depl
 
 <p > <img src="./assets/submit.png" alt="Build" style="border: 1px solid black;" /> </p>
 
-5. If your submission is valid, you will automatically leave your mark on the [Digital Legacy Scroll](https://aki3l-syaaa-aaaaj-qa23q-cai.icp0.io/) and you'll gan access to our private Motoko Bootcamp OpenChat Group.
+5. If your submission is valid, you will automatically leave your mark on the [Digital Legacy Scroll](https://aki3l-syaaa-aaaaj-qa23q-cai.icp0.io/) and you'll gain access to Motoko Bootcamp OpenChat Community.
 
 <p > <img src="./assets/oc.png" alt="Build" style="border: 1px solid black;" /> </p>
 
