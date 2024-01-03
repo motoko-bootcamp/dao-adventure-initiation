@@ -2,17 +2,17 @@
 
 > This repository is an initiation for the DAO Adventure. To check out the complete DAO Adventure repository, [click here](https://github.com/motoko-bootcamp/dao-adventure).
 
-<p > <img src="./assets/academy.webp" alt="Build" /> </p>
-
 ## 📌 Important Resources
 
-- [Motoko Bootcamp Dashboard](https://motokobootcamp.com)
+- [Motoko Bootcamp Dashboard](https://m![Alt text](image.png)otokobootcamp.com)
 - [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/?tag=3270740775)
 - [Initiation Notion Guide](https://tomahawkvc.notion.site/Motoko-Bootcamp-Initiation-e84a4b9c5d5b4f7ebf9747b48e97ae12?pvs=74)
 - [Initiation Video Guide](https://www.youtube.com/watch?v=Z3Z4X6Z3Z4E)
 - [Digital Legacy Scroll](https://aki3l-syaaa-aaaaj-qa23q-cai.icp0.io/)
 
 ## ✨ Introduction
+
+<p > <img src="./assets/academy.png" alt="Build" /> </p>
 
 _In an alternate universe, the digital world is divided into various lands, with the Motoko Academy towering above the clouds. This prestigious academy is not just about learning to code; it's a place where novices are transformed into digital architects who shape the future of the digital world._
 
@@ -24,7 +24,7 @@ _But the rewards extend beyond the scroll. Those who make it onto the list are g
 
 _As you approach the grand entrance, a luminous hologram greets you with an inviting voice, "Ready to shape the digital future?" It stands as the guardian of knowledge at the academy, guiding aspirants on their journey._
 
-<p align="center"> <img src="./assets/challenge.webp" alt="Build" /> </p>
+<p align="center"> <img src="./assets/challenge.png" alt="Build" /> </p>
 
 ## 🎯 Mission
 
@@ -48,8 +48,7 @@ Your goal, should you decided to embark on this journey, is to successfully depl
 
 5. If your submission is valid, you will automatically leave your mark on the [Digital Legacy Scroll](https://aki3l-syaaa-aaaaj-qa23q-cai.icp0.io/) and you'll gan access to our private Motoko Bootcamp OpenChat Group.
 
-<p > <img src="./assets/regoster.png" alt="Build" /> </p>
-
+<p > <img src="./assets/oc.png" alt="Build" /> </p>
 
 ## Motoko pill 💊
 
