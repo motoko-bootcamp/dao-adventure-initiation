@@ -24,8 +24,6 @@ _But the rewards extend beyond the scroll. Those who make it onto the list are g
 
 _As you approach the grand entrance, a luminous hologram greets you with an inviting voice, "Ready to shape the digital future?" It stands as the guardian of knowledge at the academy, guiding aspirants on their journey._
 
-<p align="center"> <img src="./assets/challenge.png" alt="Build" style="border: 1px solid black;"/> </p>
-
 ## 🎯 Mission
 
 Your goal, should you decided to embark on this journey, is to successfully deploy your first application on the Internet Computer and submit it on the Motoko Bootcamp Dashboard. To achieve this, we will make use of the Motoko Playground, a web-based coding platform. This eliminates the need for any software installations on your computer.
