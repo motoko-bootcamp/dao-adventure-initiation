@@ -28,9 +28,7 @@ _As you approach the grand entrance, a luminous hologram greets you with an invi
 
 ## 🎯 Mission
 
-Your goal, should you decided to embark on this journey, is to successfully deploy your first application on the Internet Computer.
-
-To achieve this, we will make use of the Motoko Playground, a web-based coding platform. This eliminates the need for any software installations on your computer!
+Your goal, should you decided to embark on this journey, is to successfully deploy your first application on the Internet Computer and submit it on the Motoko Bootcamp Dashboard. To achieve this, we will make use of the Motoko Playground, a web-based coding platform. This eliminates the need for any software installations on your computer.
 
 ## ✏️ Your Tasks
 
