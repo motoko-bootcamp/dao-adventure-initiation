@@ -34,14 +34,15 @@ To achieve this, we will make use of the Motoko Playground, a web-based coding p
 
 ## ✏️ Your Tasks
 
-Click Here To Get Started 👉 [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/?tag=3270740775)
+1. Register on the [Motoko Bootcamp Dashboard](motokobootcamp.com) and create an account. You'll need to click on the **Login** button on the top right corner of the page.
 
-1. Register on the [Motoko Bootcamp Dashboard](motokobootcamp.com) and create an account.
+2. Develop your application by completing the 5 specified tasks in main.mo, available in the [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/?tag=3270740775). Take inspiration from code in the [demo.mo](./src/demo.mo) file.
 
-> Creating an account on the Motoko Bootcamp Dashboard will automatically grant you the candidate role. To become a student, you must complete the initiation challenge.
+3. Once developed, deploy your application on the Internet Computer. You can do this by clicking on the **Deploy** button on the top right corner of the Motoko Playground.
 
-2. Develop your application by completing the 5 specified tasks in main.mo, available in the [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/?tag=3270740775).
-3. Once developed, deploy your application and submit your canister on [motokobootcamp.com](https://motokobootcamp.com). If your submission is valid, you will automatically leave your mark on the [Digital Legacy Scroll](https://aki3l-syaaa-aaaaj-qa23q-cai.icp0.io/) and you'll gan access to our private Motoko Bootcamp OpenChat Group.
+4. Submit your canister on [motokobootcamp.com](https://motokobootcamp.com) to complete the initiation challenge.
+
+5. If your submission is valid, you will automatically leave your mark on the [Digital Legacy Scroll](https://aki3l-syaaa-aaaaj-qa23q-cai.icp0.io/) and you'll gan access to our private Motoko Bootcamp OpenChat Group.
 
 ## Motoko pill 💊
 
