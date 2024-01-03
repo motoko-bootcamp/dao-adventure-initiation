@@ -47,9 +47,9 @@ Your goal, should you decided to embark on this journey, is to successfully depl
 > The Motoko Bootcamp is a 7 day transformative journey that turns beginners into digital heroes. It is an initiative organized and supported by [Code & State](https://www.codeandstate.com/). Make sure to register for the next Bootcamp on [motokobootcamp.com](https://www.motokobootcamp.com/)
 
 <p align="center">
-    <img src="./assets/guide/Poster-1.png" style="width: 200px; display: block;" />
-    <img src="./assets/guide/Poster-2.png" style="width: 200px; display: block;" />
-    <img src="./assets/guide/Poster-3.png" style="width: 200px; display: block;" />
+    <img src="./assets/guide/Poster-1.png" style="width: 250px; display: block;" />
+    <img src="./assets/guide/Poster-2.png" style="width: 250px; display: block;" />
+    <img src="./assets/guide/Poster-3.png" style="width: 250px; display: block;" />
 </p>
 
 ## Meme of the day 🙈
