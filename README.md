@@ -2,7 +2,7 @@
 
 > This repository is an initiation for the DAO Adventure. To check out the complete DAO Adventure repository, [click here](https://github.com/motoko-bootcamp/dao-adventure).
 
-<p > <img src="./assets/project/academy.webp" alt="Build" /> </p>
+<p > <img src="./assets/academy.webp" alt="Build" /> </p>
 
 ## 📌 Important Resources
 
@@ -24,7 +24,7 @@ _But the rewards extend beyond the scroll. Those who make it onto the list are g
 
 _As you approach the grand entrance, a luminous hologram greets you with an inviting voice, "Ready to shape the digital future?" It stands as the guardian of knowledge at the academy, guiding aspirants on their journey._
 
-<p align="center"> <img src="./assets/project/challenge.webp" alt="Build" /> </p>
+<p align="center"> <img src="./assets/challenge.webp" alt="Build" /> </p>
 
 ## 🎯 Mission
 
@@ -34,26 +34,35 @@ Your goal, should you decided to embark on this journey, is to successfully depl
 
 1. Register on the [Motoko Bootcamp Dashboard](motokobootcamp.com) and create an account. You'll need to click on the **Login** button on the top right corner of the page.
 
+<p > <img src="./assets/register.png" alt="Build" /> </p>
+
 2. Develop your application by completing the 5 specified tasks in main.mo, available in the [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/?tag=3270740775). Take inspiration from code in the [demo.mo](./src/demo.mo) file.
+
+<p > <img src="./assets/playground.png" alt="Build" /> </p>
 
 3. Once developed, deploy your application on the Internet Computer. You can do this by clicking on the **Deploy** button on the top right corner of the Motoko Playground.
 
 4. Submit your canister on [motokobootcamp.com](https://motokobootcamp.com) to complete the initiation challenge.
 
+<p > <img src="./assets/submit.png" alt="Build" /> </p>
+
 5. If your submission is valid, you will automatically leave your mark on the [Digital Legacy Scroll](https://aki3l-syaaa-aaaaj-qa23q-cai.icp0.io/) and you'll gan access to our private Motoko Bootcamp OpenChat Group.
+
+<p > <img src="./assets/regoster.png" alt="Build" /> </p>
+
 
 ## Motoko pill 💊
 
 > The Motoko Bootcamp is a 7 day transformative journey that turns beginners into digital heroes. It is an initiative organized and supported by [Code & State](https://www.codeandstate.com/). Make sure to register for the next Bootcamp on [motokobootcamp.com](https://www.motokobootcamp.com/)
 
 <p align="center">
-    <img src="./assets/guide/Poster-1.png" style="width: 250px; display: block;" />
-    <img src="./assets/guide/Poster-2.png" style="width: 250px; display: block;" />
-    <img src="./assets/guide/Poster-3.png" style="width: 250px; display: block;" />
+    <img src="./assets/Poster-1.png" style="width: 250px; display: block;" />
+    <img src="./assets/Poster-2.png" style="width: 250px; display: block;" />
+    <img src="./assets/Poster-3.png" style="width: 250px; display: block;" />
 </p>
 
 ## Meme of the day 🙈
 
 > This meme is brought to you by a fellow Motoko Bootcamp student. If you have a meme you'd like to share, please send it to us on the [memes](https://discord.gg/vwEC5RcKBv) channel - we'll feature the best ones here.
 
-<p align="center"><img src="./assets/guide/meme_level_0.png" style="width: 500px;" /></p>
+<p align="center"><img src="./assets/meme_level_0.png" style="width: 500px;" /></p>
