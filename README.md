@@ -1,8 +1,10 @@
 # Motoko Bootcamp - DAO Adventure - Initiation
 
+<p align="center"> <img src="./assets/challenge.png" alt="Build" style="border: 1px solid black;"/> </p>
+
 > This repository is an initiation for the DAO Adventure. To check out the complete DAO Adventure repository, [click here](https://github.com/motoko-bootcamp/dao-adventure).
 
-## 📌 Important Resources
+## Important Resources 📌
 
 - [Motoko Bootcamp Dashboard](https://motokobootcamp.com)
 - [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/?tag=3270740775)
@@ -10,7 +12,7 @@
 - [Initiation Video Guide](https://www.youtube.com/watch?v=Z3Z4X6Z3Z4E)
 - [Digital Legacy Scroll](https://aki3l-syaaa-aaaaj-qa23q-cai.icp0.io/)
 
-## ✨ Introduction
+## Introduction ✨
 
 <p > <img src="./assets/academy.png" alt="Build" style="border: 1px solid black;" /> </p>
 
@@ -24,11 +26,11 @@ _But the rewards extend beyond the scroll. Those who make it onto the list are g
 
 _As you approach the grand entrance, a luminous hologram greets you with an inviting voice, "Ready to shape the digital future?" It stands as the guardian of knowledge at the academy, guiding aspirants on their journey._
 
-## 🎯 Mission
+## Mission 🎯
 
 Your goal, should you decided to embark on this journey, is to successfully deploy your first application on the Internet Computer and submit it on the Motoko Bootcamp Dashboard. To achieve this, we will make use of the Motoko Playground, a web-based coding platform. This eliminates the need for any software installations on your computer.
 
-## ✏️ Your Tasks
+## Your Tasks ✏️
 
 1. Register on the [Motoko Bootcamp Dashboard](motokobootcamp.com) and create an account. You'll need to click on the **Login** button on the top right corner of the page.
 
@@ -63,3 +65,11 @@ Your goal, should you decided to embark on this journey, is to successfully depl
 > This meme is brought to you by a fellow Motoko Bootcamp student. If you have a meme you'd like to share, please send it to us on the [memes](https://discord.gg/vwEC5RcKBv) channel - we'll feature the best ones here.
 
 <p align="center"><img src="./assets/meme_level_0.png" style="width: 500px;" style="border: 1px solid black;" /></p>
+
+## **What’s next?** 🎓
+
+You’ve completed your initiation? It’s time to train your skills. [Click here to continue.](https://github.com/motoko-bootcamp/dao-adventure-training)
+
+## **Credits** 🙏
+
+An initiative powered and 100% supported by [Code & State](https://www.codeandstate.com/) - the leading Web3 venture studio for the Internet Computer.
