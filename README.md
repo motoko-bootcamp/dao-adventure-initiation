@@ -1,4 +1,6 @@
-> This repository is a starter for the DAO Adventure. To check out the complete DAO Adventure repository, [click here](https://github.com/motoko-bootcamp/dao-adventure).
+# Motoko Bootcamp - DAO Adventure - Initiation
+
+> This repository is an initiation for the DAO Adventure. To check out the complete DAO Adventure repository, [click here](https://github.com/motoko-bootcamp/dao-adventure).
 
 ## Introduction
 
@@ -6,7 +8,7 @@ So you've decided to join the Motoko Bootcamp? That's great. We are thrilled to 
 
 ## Task ✅
 
-- Complete the [initiation challenge](./project/PROJECT.MD).
+- [Deploy your first dApp](./project/PROJECT.MD).
 - Join the [Motoko Bootcamp Discord](https://discord.gg/vwEC5RcKBv) and introduce yourself.
 
 ## Lectures 🍿
